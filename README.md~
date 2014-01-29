@@ -35,7 +35,7 @@ Copy it over fresh 0F install and add lines below to schema file:
 	);
 ```
 
-##### Check other things in PHPUnit test file (app/tests/php/statistics_test.php)
+##### Check other things in PHPUnit test file
 
 License
 ----
